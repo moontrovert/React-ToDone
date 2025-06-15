@@ -92,10 +92,3 @@ todoList/
 │   └── global.css       # Global styles
 └── package.json         # Project dependencies and scripts
 ```
-
-
-## Acknowledgments
-
-- React Icons for the beautiful icon set
-- Tailwind CSS for the utility-first CSS framework
-- Express.js for the lightweight backend framework
