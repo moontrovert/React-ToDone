@@ -6,14 +6,14 @@ A simple modern Todo List application built with React, Express.js, and a dark t
 
 ## Features
 
-- ✨ Modern dark theme UI
-- 📱 Responsive design
-- 💾 Persistent storage with JSON file
-- ✅ Complete/Uncomplete tasks
-- ✏️ Edit task descriptions
-- 🗑️ Delete tasks
-- 🔄 Real-time updates
-- 🎯 Separate "To Do" and "Done" lists
+- Modern dark theme UI
+- Responsive design
+- Persistent storage with JSON file
+- Complete/Uncomplete tasks
+- Edit task descriptions
+- Delete tasks
+- Real-time updates
+- Separate "To Do" and "Done" lists
 
 ## Technology Stack
 
