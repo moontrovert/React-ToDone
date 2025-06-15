@@ -38,7 +38,7 @@ A simple modern Todo List application built with React, Express.js, and a dark t
 
 1. Clone the repository
 ```powershell
-git clone https://github.com/yourusername/todoList.git
+git clone [https://github.com/yourusername/todoList.git](https://github.com/moontrovert/React-ToDone.git)
 cd todoList
 ```
 
